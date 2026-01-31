@@ -4,6 +4,10 @@
 
 Este repositório apresenta a camada visual e interativa do projeto ENEM. O foco aqui foi transformar as médias de desempenho calculadas em insights geográficos, permitindo visualizar como a educação evoluiu em cada estado brasileiro ao longo de mais de uma década.
 
+## 🖼️ Visualização do Desempenho Regional
+
+![Mapa do ENEM](mapa_linguagens.png)
+
 ## 🚀 Diferenciais Técnicos do Projeto
 
 1. **Mapas Coropléticos Dinâmicos**
