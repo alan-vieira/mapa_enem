@@ -6,7 +6,11 @@ Este repositório apresenta a camada visual e interativa do projeto ENEM. O foco
 
 ## 🖼️ Visualização do Desempenho Regional
 
-![Mapa do ENEM](mapa_linguagens.png)
+<div align="center">
+  <h3>🗺️ Distribuição Geográfica das Médias de Desempenho (Brasil)</h3>
+  <img src="https://raw.githubusercontent.com/alan-vieira/mapa_enem/main/mapa_matematica.png" width="800px">
+  <p><i>Visualização interativa gerada com Plotly demonstrando a variação regional das notas.</i></p>
+</div>
 
 ## 🚀 Diferenciais Técnicos do Projeto
 
